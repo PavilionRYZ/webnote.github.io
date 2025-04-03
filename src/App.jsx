@@ -48,7 +48,7 @@ function App() {
           animate={{ y: 0, opacity: 1 }}
           className="text-3xl font-bold text-center text-white"
         >
-          My Awesome Todo List
+          Web Note
         </motion.h1>
       </header>
 
